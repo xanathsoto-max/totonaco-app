@@ -1,7 +1,7 @@
 # App Aprende Totonaco
 Estado: WIP - Trabajo en progreso
 
-App Android en Kotlin para preservar la lengua Totonaca.
+App Android en Java (Android Studio) para preservar la lengua Totonaca.
 
 ## Avance actual
 Diseño y capturas
